@@ -1,0 +1,85 @@
+a:2:{s:4:"data";s:2885:"<li>
+    <a href="category/cholovikui">Чоловіки</a>
+            <ul>
+            <li>
+    <a href="category/verhniyi-odyag">Верхній одяг</a>
+            <ul>
+            <li>
+    <a href="category/kurtkui">Куртки</a>
+    </li><li>
+    <a href="category/pal-ta">Пальта</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/sportuivnuiyi-odyag">Спортивний одяг</a>
+            <ul>
+            <li>
+    <a href="category/sportuivni-koftui">Спортивні кофти</a>
+    </li><li>
+    <a href="category/sportuivni-shtanui">Спортивні штани</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/kost-mui-ta-pidzhakui">Костюми та піджаки</a>
+            <ul>
+            <li>
+    <a href="category/pidzhakui">Піджаки</a>
+    </li><li>
+    <a href="category/kost-mui">Костюми</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="category/zhinkui">Жінки</a>
+            <ul>
+            <li>
+    <a href="category/verhniyi-odyag-20">Верхній  одяг</a>
+            <ul>
+            <li>
+    <a href="category/puhovuikui">Пуховики</a>
+    </li><li>
+    <a href="category/pal-ta-35">Пальта</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/sportuivnuiyi-odyag-22">Спортивний одяг</a>
+            <ul>
+            <li>
+    <a href="category/sportuivni-koftui-36">Спортивні кофти</a>
+    </li><li>
+    <a href="category/sportuivni-shtanui-37">Спортивні штани</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/kost-mui-ta-zhaketui">Костюми та жакети</a>
+            <ul>
+            <li>
+    <a href="category/kost-mui-38">Костюми</a>
+    </li><li>
+    <a href="category/zhaketui">Жакети</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="category/ditui">Діти</a>
+            <ul>
+            <li>
+    <a href="category/odyag-dlya-hlopchuikiv">Одяг для хлопчиків</a>
+            <ul>
+            <li>
+    <a href="category/pizhamui">Піжами</a>
+    </li><li>
+    <a href="category/futbolkui">Футболки</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/odyag-dlya-divchatok">Одяг для дівчаток</a>
+            <ul>
+            <li>
+    <a href="category/plattya">Плаття</a>
+    </li><li>
+    <a href="category/pizhamui-43">Піжами</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/odyag-dlya-mal-kiv">Одяг для малюків</a>
+            <ul>
+            <li>
+    <a href="category/kombinezonui">Комбінезони</a>
+    </li><li>
+    <a href="category/bodi">Боді</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1681237895;}
