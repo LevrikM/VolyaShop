@@ -1,6 +1,6 @@
 # Шлях до форми оплати
 
-<h1>volyashop/app/views/Cart/view.php ( 89-112 строка )</h1>
+<h4>volyashop/app/views/Cart/view.php ( 89-112 строка )</h4>
 
 
 # Платіжна система Fondy
